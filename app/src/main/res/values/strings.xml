@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Werkgeversmarkt Niek</string>
+    <!-- Tab labels for the three fragments -->
+    <string name="tab_alle_werkgevers_label">Alle</string>
+    <string name="tab_participerende_werkgevers_label">Participerend</string>
+    <string name="tab_beoordelingen_label">Beoordelingen</string>
+
+    <string name="app_name_with_index">WerkgeversmarktNiek (%1$d/%2$d)</string>
+
+    <string name="name_label_text">Naam bedrijf:</string>
+    <string name="enter_name_hint">Naam bedrijf</string>
+    <string name="note_label_text">Notitie:</string>
+    <string name="enter_note_hint">Notitie</string>
+    <string name="contactpersoon_label_text">Naam contactpersoon</string>
+    <string name="contactpersoon_hint">Naam contactpersoon</string>
+    <string name="beoordeling_title">Beoordelingsformulier</string>
+    <string name="opslaan_button_text">Opslaan</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="company_list">
+        <item>Accenture</item>
+        <item>Amis</item>
+        <item>BaseNet</item>
+        <item>Blue Billywig</item>
+        <item>Cal Consult</item>
+        <item>CGI</item>
+        <item>ComplyNow</item>
+        <item>Conclusion BAM</item>
+        <item>Conclusion Digital</item>
+        <item>DutchWorkz</item>
+        <item>Elastique</item>
+        <item>Estreme</item>
+        <item>Ex Machina</item>
+        <item>Experis IT</item>
+        <item>Idella</item>
+        <item>Incentro</item>
+        <item>iSense</item>
+        <item>Finalist</item>
+        <item>First 8</item>
+        <item>Keylane</item>
+        <item>Koper Automatisering</item>
+        <item>KPMG Crimsonwing</item>
+        <item>KPN</item>
+        <item>MMGuide</item>
+        <item>MobPro</item>
+        <item>My Sports</item>
+        <item>MyBit</item>
+        <item>Nexus</item>
+        <item>PinkRoccade</item>
+        <item>REM Software</item>
+        <item>Rijksoverheid</item>
+        <item>RTL</item>
+        <item>RVC</item>
+        <item>Seeburger</item>
+        <item>Sopra Banking</item>
+        <item>Spring Professional</item>
+        <item>Transfer Solutions</item>
+        <item>Ultimo Software Solutions</item>
+        <item>United</item>
+        <item>UWV</item>
+        <item>VisionsConnected</item>
+        <item>Xcess</item>
+        <item>Yacht</item>
+        <item>Yard</item>
+    </string-array>
+</resources>
